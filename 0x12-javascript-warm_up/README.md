@@ -1,1 +1,1 @@
-"javascript warm up"
+"Javascript Warm Up"
